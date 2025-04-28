@@ -6,23 +6,27 @@ body {
   background-color: black;
   color: white;
   font-family: Sans-Serif;
-  text-align: center;
   }
   p {
   font-size: 17px;
+  text-align: center;
   }
 h1 {
   font-size: 80px;
+  text-align: center;
   }
 h2 {
   font-size: 35px;
+  text-align: center;
   }
 .smallp {
   font-size: 10px;
+  text-align: center;
 }
 .mainlink {
   font-size: 25px;
   font-weight: bold;
+  text-align: center;
   }
   .header {
     font-size: 40px;
