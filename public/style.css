@@ -8,25 +8,20 @@ body {
   font-family: Sans-Serif;
   }
   p {
-  font-size: 17px;
-  text-align: center;
+  font-size: 14px;
   }
 h1 {
-  font-size: 80px;
-  text-align: center;
+  font-size: 65px;
   }
 h2 {
-  font-size: 35px;
-  text-align: center;
+  font-size: 25px;
   }
 .smallp {
-  font-size: 10px;
-  text-align: center;
+  font-size: 7px;
 }
 .mainlink {
-  font-size: 25px;
+  font-size: 18px;
   font-weight: bold;
-  text-align: center;
   }
   .header {
     font-size: 40px;
