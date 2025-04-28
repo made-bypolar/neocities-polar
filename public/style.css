@@ -6,6 +6,7 @@ body {
   background-color: black;
   color: white;
   font-family: Sans-Serif;
+  text-align: center;
   }
   p {
   font-size: 17px;
@@ -22,4 +23,9 @@ h2 {
 .mainlink {
   font-size: 25px;
   font-weight: bold;
+  }
+  .header {
+    font-size: 40px;
+    text-align: center;
+    background: white;
   }
